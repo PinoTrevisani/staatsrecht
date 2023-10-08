@@ -17756,11 +17756,12 @@ input.darkInput:enabled {
   color: #333333;
   font-weight: bold;
 }
+/* CUSTOM COLOR */
 .loadonscroll {
-  color: #999999;
+  color: black;
 }
 .loadonscroll a {
-  color: #999999 !important;
+  color: black !important;
 }
 .loadonscroll.active {
   color: #333333;
